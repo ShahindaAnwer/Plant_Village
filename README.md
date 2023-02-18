@@ -1,4 +1,4 @@
-# Plant-Village
+# Plant Village
  There are two files, `Potato_Disease_Classification` and `Tomatoe_Disease_Classification` <sub>**Both are similar but with different datasets and classes, therefore, giving out different outputs**</sub>
  
  1. Potato Disease:
